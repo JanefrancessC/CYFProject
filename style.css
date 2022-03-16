@@ -1,0 +1,30 @@
+.image {
+    width: 35%;
+}
+body{
+    background-color: rgb(67,107,149);
+    
+}
+.c-site-header{
+    
+    background-color: rgb(8, 9, 66);
+    color: whitesmoke;
+    height: 100%px;
+    width: 100%;
+    padding: 60px;
+    text-align: center;
+    font-size: 30px;
+}
+.nav-class{
+    background-color: rgb(15,77,146);
+    border-style: solid;
+    border-width: 10px 5px;
+    border-color: rgba(15,77,146, 0.6);
+    border-radius: 3px;
+}
+.pix{
+    width: 20%;
+    height: 55%;
+    border-radius: 0rem;
+}
+    
